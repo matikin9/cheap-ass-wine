@@ -14,3 +14,4 @@ Intense color with attractive garnet tones, it is silky, elegant and shows good 
 
 **Tasting thoughts:**
 
+<img src='https://github.com/matikin9/cheap-ass-wine/blob/master/images/001_Cabriz.jpg?raw=true" "width=400">
