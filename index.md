@@ -5,5 +5,5 @@ No. 1 - [Cabriz](001-cabriz.md)
 
 No. 2 - [McManis](002-mcmanis.md)
 
-No. 3 - [Insurrection](003-insurrention1.md)
+No. 3 - [Insurrection](cheap-ass-wine/images/003_Insurrenction1.JPG)
 
