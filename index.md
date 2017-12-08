@@ -5,7 +5,7 @@ No. 1 - [Cabriz](001-cabriz.md)
 
 No. 2 - [McManis](002-mcmanis.md)
 
-No. 3 - [Insurrection](cheap-ass-wine/images/003_Insurrenction1.JPG)
+No. 3 - [Insurrection](cheap-ass-wine/003-Insurrection.md)
 
-No. 4 - [Seaglass] (cheap-ass-wine/004-Seaglass)
+No. 4 - [Seaglass] (cheap-ass-wine/004-Seaglass.md)
 
