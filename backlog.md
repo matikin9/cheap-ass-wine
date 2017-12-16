@@ -46,3 +46,21 @@ Cabernet Sauvignon from Columbia Valley
 $9.99 from Whole foods
 
 French Pinot Noir
+
+# Casillero del Diablo
+
+Chilean Cabernet Sauvignon
+
+"A smooth Cabernet Suavignon full of cassis and black cherries complemented by hints of mocha and dark chocolate."
+
+# Lillie's Collection
+
+California Pinot Noir
+
+"The label bears the image of Lillie Langtry, the famed Victorian actress who planted vines on her ranch over a century ago.  This exquisitely crafted wine is a tribute to her efforts to produce the finest wines in America.  Lillie's California Pinot Noir is a well balanced wine with aromas of strawberry, plum, and toasted oak."
+
+# The Buccaneer
+
+California Sauvignon
+
+"Our winemakers, modern-day Buccaneers explore the vineyardas from ridge-top to valley floor in search of the ripest blocks to bring to the winery.  After harvest they plunder the cellar to find the best of the lots to craft this dark, stormy, and mysterious wine.  The Buccaneer is a rich, lusty wine that drinks well with hearty dishes and satisfies the thirst for adventure and exploration.  Be the Buccaneer!"
