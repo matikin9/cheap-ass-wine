@@ -41,3 +41,8 @@ Cabernet Sauvignon from Columbia Valley
 
 "This rich, full bodied Cabernet Suavignon features the bold characters of black currant, dark cherry, and espresso with hints of spice.  Perfectly balanced for a smooth finsh that makes this wine a great dinner companion.
 
+# Fantastique
+
+$9.99 from Whole foods
+
+French Pinot Noir
