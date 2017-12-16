@@ -32,3 +32,12 @@ $16.99 from Costco
 Red Blend from Paso Robles.
 
 "a pessimist is never disappointed"
+
+# 14 Hands
+
+$9.99 from Whole Foods
+
+Cabernet Sauvignon from Columbia Valley
+
+"This rich, full bodied Cabernet Suavignon features the bold characters of black currant, dark cherry, and espresso with hints of spice.  Perfectly balanced for a smooth finsh that makes this wine a great dinner companion.
+
